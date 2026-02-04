@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Mohammad Kaif Shaik
 
-🎯 Aspiring Data Scientist | Python | EDA | Statistics  
+🎯 Aspiring Data Analysis | Python | EDA | Statistics  
 📍 India
 
 
@@ -22,8 +22,7 @@ I enjoy working with data, discovering hidden patterns, and transforming insight
 - **Exploratory Data Analysis (EDA)**  
   Data cleaning, visualization, and insight generation from real datasets  
 
-### 🔹 Currently Learning
-- 🤖 Machine Learning  
+### 🔹 Currently Learning 
 - 🗄️ SQL
 
 ### 📫 Connect with Me

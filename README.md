@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋 I'm Mohammad Kaif Shaik
 
-<!--
-**mohammadkaifshaik09/mohammadkaifshaik09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | Python | EDA | Statistics  
+📍 India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 About Me
+I am a passionate Data Science student with a strong foundation in Python and Exploratory Data Analysis (EDA).  
+I enjoy working with data, discovering hidden patterns, and transforming insights into meaningful decisions.
+
+### 🔹 Skills
+- 🐍 Python  
+- 📦 Pandas, NumPy  
+- 📊 Matplotlib, Seaborn  
+- 🔍 Exploratory Data Analysis (EDA)  
+- 📐 Statistics (Basics)
+
+### 🔹 Projects
+- **Python Fundamentals**  
+  Programs, OOP concepts, and problem-solving using Python  
+
+- **Exploratory Data Analysis (EDA)**  
+  Data cleaning, visualization, and insight generation from real datasets  
+
+### 🔹 Currently Learning
+- 🤖 Machine Learning  
+- 🗄️ SQL
+
+### 📫 Connect with Me
+- GitHub: https://github.com/mohammadkaifshaik09  
+- LinkedIn: www.linkedin.com/in/shaik-mohammad-kaif-37215326a
